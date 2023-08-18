@@ -1,0 +1,21 @@
+{
+    "name": "phyple/env",
+    "description": "Environment Management Library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phyple\\Env\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Strandy Overdrive",
+            "email": "strandy.overdrive@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1"
+    }
+}
