@@ -6,7 +6,10 @@
     "autoload": {
         "psr-4": {
             "Phyple\\Env\\": "src/"
-        }
+        },
+        "files": [
+            "src/helpers.php"
+        ]
     },
     "authors": [
         {
